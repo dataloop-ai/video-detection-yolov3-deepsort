@@ -1,0 +1,7 @@
+tensorflow-gpu==1.12.0
+opencv_python==3.4.2.17
+keras==2.1.6
+Pillow==7.0.0
+scikit-learn
+matplotlib==2.1.2
+dtlpy
