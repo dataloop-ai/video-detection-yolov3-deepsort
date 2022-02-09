@@ -1,4 +1,4 @@
-tensorflow-gpu==1.15.4
+tensorflow-gpu==2.5.3
 opencv_python==3.4.2.17
 keras==2.1.6
 Pillow==7.0.0
